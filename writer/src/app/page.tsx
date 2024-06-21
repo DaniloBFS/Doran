@@ -1,9 +1,8 @@
 
-
 export default function Home() {
   return (
-    <main>
-      <p>oi</p>
+    <main className="flex min-h-screen flex-col items-center justify-between p-24">
+        oi
     </main>
   );
 }
